@@ -1,5 +1,5 @@
 # Pet-Lost-Client  
-This is a web application to find lost pets
+This is a web application to find lost pets  
 
 ## Git workflow recomendations
 
