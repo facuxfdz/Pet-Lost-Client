@@ -1,5 +1,5 @@
-# Pet-Lost-Client  
-This is a web application to find lost pets  
+# Pet-Lost
+This is a web application to find lost pets
 
 ## Git workflow recomendations
 
@@ -23,3 +23,12 @@ This is a web application to find lost pets
   `git push -u <new remote name> <new branch name>` or `git push <new remote name> <new branch name>`   
 ---
 - Once the files are online, make a new pull request from your branch, if everything is fine, your request will be merged with the main branch
+
+#Software Architecture  
+- The platforms that will be used to host our application are the following:  
+![](images/SoftArch.png)  
+---  
+#Sequence Diagram "user - View - Controller - Model"      
+- The general idea when the user interacts with the user interface will be the next one:  
+![](images/SeqDiag.png)  
+---  
